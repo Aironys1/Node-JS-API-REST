@@ -1,3 +1,5 @@
+# Desenvolvimento de uma API REST com JavaScript no Lado do Back-End
+
 O desenvolvimento de APIs (Application Programming Interfaces) desempenha um papel fundamental na construção de aplicativos modernos e na comunicação eficiente entre diferentes sistemas. Uma abordagem comum para a criação de APIs é o uso do padrão REST (Representational State Transfer), que oferece uma arquitetura escalável e baseada em padrões para o desenvolvimento de serviços web.
 
 Neste contexto, o JavaScript tem se tornado cada vez mais popular para o desenvolvimento no lado do back-end, graças a plataformas como o Node.js. O Node.js permite que os desenvolvedores executem o JavaScript fora do navegador, no servidor, o que proporciona um ambiente adequado para a criação de APIs REST.
